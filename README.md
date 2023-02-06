@@ -3,23 +3,18 @@
 Global Game Jam page of the game : [Rem and the corrupt world (Global Game Jam 2023)](https://globalgamejam.org/2023/games/talence-game-jam-2023-1)
 
 ## Context
-<style>
-    .center{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-<img class="center" src="ressources/GGJ_Logo.png" alt="GGJ Logo" width="300"/><br>
+<p align="center">
+    <img src="ressources/GGJ_Logo.png" alt="GGJ Logo" width="300"/><br>
+</p>
 
 The GGJ is the world's largest game creation event taking place around the globe boasting tens of thousands of participants (jammers) at hundreds of physical and virtual sites in over one hundred countries around the world.
 
 In the 2023 GGJ Edition, we had from Friday 3rd Frebuary 7:00PM to Sunday 5th Frebuary 8:00PM for create a game on the theme : "Roots".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G8vZDKQWH68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**GGJ 2023 reveal theme :**
+[![](ressources/thumbnail.png)](https://www.youtube.com/embed/G8vZDKQWH68)
 
 And optionally we can also add constrainsts (called "Diversifiers") to the developpement of the game. You can find the complete list [here](https://globalgamejam.org/news/ggj-2023-diversifiers).
-
 
 **More informations on the [Global Game Jam Website](https://globalgamejam.org/news/theme-global-game-jam-2023)**
 
