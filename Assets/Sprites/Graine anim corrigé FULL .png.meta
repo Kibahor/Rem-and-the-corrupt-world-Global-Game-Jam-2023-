@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 2062fe4159adad342b3280473b3c3f64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7559025751903031506
+    second: "Graine anim corrig\xE9 FULL _0"
+  - first:
+      213: -1489628561082389336
+    second: "Graine anim corrig\xE9 FULL _1"
+  - first:
+      213: -2808847412746434768
+    second: "Graine anim corrig\xE9 FULL _2"
+  - first:
+      213: -3324552950577232982
+    second: "Graine anim corrig\xE9 FULL _3"
+  - first:
+      213: -8790600986447880656
+    second: "Graine anim corrig\xE9 FULL _7"
+  - first:
+      213: -5512997595023873773
+    second: "Graine anim corrig\xE9 FULL _8"
+  - first:
+      213: -7773249280450013955
+    second: "Graine anim corrig\xE9 FULL _9"
+  - first:
+      213: 3518524851751748818
+    second: "Graine anim corrig\xE9 FULL _10"
+  - first:
+      213: 4641368907552726527
+    second: "Graine anim corrig\xE9 FULL _11"
+  - first:
+      213: -4591842775055840539
+    second: "Graine anim corrig\xE9 FULL _13"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _0"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 977
+        width: 168
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d5363fdd07e860800000000000000
+      internalID: 7559025751903031506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _1"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 966
+        width: 113
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac686157b6c35be0800000000000000
+      internalID: -1489628561082389336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _2"
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 959
+        width: 121
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03749f6f828f409d0800000000000000
+      internalID: -2808847412746434768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _3"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 972
+        width: 113
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa30ed7a4b0dcd1d0800000000000000
+      internalID: -3324552950577232982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _7"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 966
+        width: 193
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e53983af2810680800000000000000
+      internalID: -8790600986447880656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _8"
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 974
+        width: 261
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e40d75e5ed73b0800000000000000
+      internalID: -5512997595023873773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _9"
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 943
+        width: 234
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df45730c6fedf1490800000000000000
+      internalID: -7773249280450013955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _10"
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 877
+        width: 124
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d40c02f5bf44d030800000000000000
+      internalID: 3518524851751748818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _11"
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 925
+        width: 213
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd193e2e64796040800000000000000
+      internalID: 4641368907552726527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Graine anim corrig\xE9 FULL _13"
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 954
+        width: 182
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4a50235f7640c0800000000000000
+      internalID: -4591842775055840539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
